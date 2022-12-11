@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi let's learn 
+### and create a new world full of dreams fulfilled by cyborg's
+*just a mad dreamer*
+**learning codes to satisfy the recruiters....... just kiding**
 
 <!--
 **darkdamater/darkdamater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
