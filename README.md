@@ -1,105 +1,138 @@
-# Hi 👋, I'm Ankush Mishra
+<h1 align="center">⚡ Ankush Mishra ⚡</h1>
 
-🎓 Computer Science Student
+<h3 align="center">
+🤖 AI/ML Engineer in Progress • Generative AI Enthusiast • MLSC Lead
+</h3>
 
-🤖 Aspiring AI/ML Engineer
-
-🚀 Currently learning:
-- Python
-- NumPy
-- Pandas
-- SQL (Next)
-- Machine Learning
-- Generative AI
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BB00FF&center=true&vCenter=true&width=1000&lines=Building+AI+Projects+Every+Day;Machine+Learning+%7C+GenAI+%7C+Agents;Python+Developer+and+Problem+Solver;Future+AI+Engineer+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🔥 Current Roadmap
+# 🌌 About Me
 
-✅ Python Fundamentals
+🎓 Computer Science Student at **G.H. Raisoni College of Engineering and Management, Pune**
 
-✅ NumPy
+🚀 Currently Learning:
 
-✅ Pandas
+* Python
+* NumPy
+* Pandas
+* SQL
+* Machine Learning
+* Generative AI
+* Agentic AI
 
-🔄 SQL
-
-⏳ Machine Learning
-
-⏳ Generative AI
-
-⏳ Agentic AI
+🎯 Goal: Become an AI/ML Engineer and build impactful AI systems.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 2026 AI Roadmap
 
-### Languages
+```text
+Python            ██████████ 100%
+NumPy             ██████████ 100%
+Pandas            ██████████ 100%
+SQL               ███░░░░░░░ 30%
+Machine Learning  ░░░░░░░░░░ 0%
+Generative AI     ░░░░░░░░░░ 0%
+Agentic AI        ░░░░░░░░░░ 0%
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+# ⚙️ Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=yellow)
 
 ### Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge\&logo=numpy\&logoColor=00FFFF)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas\&logoColor=BB00FF)
+
+### Coming Soon
+
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql\&logoColor=00FFFF)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge\&logo=tensorflow\&logoColor=orange)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-111111?style=for-the-badge\&logo=openai\&logoColor=BB00FF)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=orange)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge\&logo=visual-studio-code\&logoColor=00FFFF)
 
 ---
 
-## 📂 Featured Projects
+# 🌟 Leadership & Community
+
+### 🎯 MLSC Lead
+
+Leading technical initiatives, workshops, hackathons, and student engagement programs.
+
+### 🚀 GDSC PR Lead
+
+Managing outreach, branding, community growth, and event promotions.
+
+### 🌍 Return Journey Campus Ambassador
+
+Representing student communities and promoting career development opportunities.
+
+---
+
+# 📂 Featured Projects
 
 ### 📰 AI News Bot
 
-News aggregation bot using NewsAPI and JavaScript.
+Interactive news assistant built using NewsAPI and JavaScript.
 
 ### 🌦 Weather Data Analyzer
 
-Data cleaning and analysis project using Pandas.
+Data cleaning, analytics, and visualization using Pandas.
 
 ### 📊 Data Analysis with Pandas
 
-Learning repository covering:
-- DataFrames
-- Filtering
-- Missing Values
-- GroupBy
-- Data Cleaning
+Hands-on repository covering:
+
+* DataFrames
+* Filtering
+* Missing Values
+* GroupBy
+* Data Cleaning
+* Data Analysis
 
 ---
 
-## 🎯 Leadership & Community
+# 📈 GitHub Analytics
 
-### MLSC Lead
+![Stats](https://github-readme-stats.vercel.app/api?username=darkdamater\&show_icons=true\&theme=tokyonight)
 
-Leading student initiatives, workshops, and technical events.
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkdamater\&theme=tokyonight)
 
-### GDSC PR Lead
-
-Managing outreach, community engagement, and event promotions.
-
-### Return Journey Campus Ambassador
-
-Representing and promoting student opportunities across campus.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkdamater\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Stats
+# 📫 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkdamater&show_icons=true)
+📧 Email: [ankushkmishra2004@gmail.com](mailto:ankushkmishra2004@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkdamater&layout=compact)
+💼 LinkedIn:
+https://www.linkedin.com/in/ankush-mishra-9a2290254/
+
+🐙 GitHub:
+https://github.com/darkdamater
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn: [Add Link]
-- GitHub: https://github.com/darkdamater
+<p align="center">
+⚡ Building AI Systems One Commit At A Time ⚡
+</p>
