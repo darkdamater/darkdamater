@@ -8,9 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=BB00FF&center=true&vCenter=true&width=1000&lines=🤖+AI%2FML+ENGINEER+IN+PROGRESS;🚀+BUILDING+AI+PROJECTS+EVERY+DAY;🧠+MACHINE+LEARNING+%7C+GENAI+%7C+AGENTS;💜+MLSC+LEAD+%7C+GDSC+PR+LEAD;⚡+WELCOME+TO+MY+GITHUB+PROFILE" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=darkdamater&color=blueviolet&style=for-the-badge" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=darkdamater&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
 ---
 
